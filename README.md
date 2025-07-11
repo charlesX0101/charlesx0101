@@ -3,11 +3,11 @@
 <p><strong>IT Systems Specialist • Cybersecurity Learner • Linux + Bash Enthusiast</strong></p>
 
 <p>
-Welcome. I’m Charles — an experienced IT support professional with over a decade of hands-on work in troubleshooting, system configuration, and technical operations. My background spans Apple hardware, Linux environments, and real-world endpoint management.
+Welcome. I’m charles x0101 an experienced IT support professional with over a decade of hands-on work in troubleshooting, system configuration, and technical operations. My background spans Apple hardware, Linux environments, and real-world endpoint management.
 </p>
 
 <p>
-This GitHub is where I document what I build, break, and figure out — a collection of tools, scripts, and configs that move beyond support tickets and into systems thinking, security, and automation.
+This GitHub is where I keep track of what I build, break, and learn. I create a collections of tools, scripts, and configurations that go beyond support tickets, focusing on systems thinking, security, and automation.
 </p>
 
 <hr>
