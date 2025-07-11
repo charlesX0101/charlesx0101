@@ -1,66 +1,47 @@
-<h1>CharlesX0101</h1>
+# CharlesX0101
 
-<p><strong>IT Systems Specialist • Cybersecurity Learner • Linux + Bash Enthusiast</strong></p>
+`IT Systems Specialist | Cybersecurity Learner | Linux + Bash Enthusiast`
 
-<p>
 Welcome. I’m charles x0101 an experienced IT support professional with over a decade of hands-on work in troubleshooting, system configuration, and technical operations. My background spans Apple hardware, Linux environments, and real-world endpoint management.
-</p>
 
-<p>
-This GitHub is where I keep track of what I build, break, and learn. I create a collections of tools, scripts, and configurations that go beyond support tickets, focusing on systems thinking, security, and automation.
-</p>
+This GitHub is where I keep track of what I build, break, and learn. I create collections of tools, scripts, and configurations that go beyond support tickets, focusing on systems thinking, security, and automation.
+---
 
-<hr>
+## [ Active Projects ]
 
-<h2>Active Projects</h2>
+- `Homelab-Build`  
+  Docs + design for a secure, enterprise-style segmented network at home.
 
-<ul>
-  <li><strong>Homelab-Build</strong><br>
-  Documentation blueprint for setting up a secure, segmented home network using enterprise principles.</li>
-  
-  <li><strong>SysRecon</strong><br>
-  Lightweight Bash utility for scanning and auditing system configurations for security and performance baselines.</li>
+- `SysRecon`  
+  Bash-based host scanner for auditing local system configs fast.
 
-  <li><strong>Bash Utilities</strong><br>
-  Small, focused CLI tools built for practical use across IT, diagnostics, and scripting workflows.</li>
-</ul>
+- `Bash Utilities`  
+  Small tools for automation, diagnostics, and hands-on CLI work.
 
-<hr>
+---
 
-<h2>Core Skills and Focus</h2>
+## [ Skills & Focus ]
 
-<ul>
-  <li>System administration and endpoint support</li>
-  <li>Bash scripting, automation, and workflow optimization</li>
-  <li>Network segmentation and homelab infrastructure</li>
-  <li>Red Team and Blue Team fundamentals</li>
-  <li>Linux internals and terminal-based operations</li>
-</ul>
+- Bash scripting and process control  
+- System administration and endpoint troubleshooting  
+- Network segmentation and diagnostics  
+- Red + Blue team fundamentals  
+- Linux internals and terminal-based workflows
 
-<hr>
+---
 
-<h2>Philosophy</h2>
+## [ Philosophy ]
 
-<p>
-I believe in simplicity, clarity, and practical utility. I document everything I build — not because it's perfect, but because it’s real. Every script here was made to solve a specific problem, and if it helped me, maybe it'll help someone else too.
-</p>
+I believe in simplicity, clarity, and practical use. I document everything I build, not because it's perfect, but because it's real. Every script here was created to solve a specific problem. If it helped me, maybe it will help someone else too.
+---
 
-<hr>
+## [ Other Interests ]
 
-<h2>Other Interests</h2>
+Outside of work, I enjoy retro gaming, scripting for emulators, and working with digital audio. If it’s technical and worth doing by hand, it likely appears here.
 
-<p>
-Outside of work, I dig into retro gaming, emulator builds, and music production. Some of my side projects blend tech with these hobbies — scripting tools for game workflows, automating creative pipelines, or just learning by doing.
-</p>
+---
 
-<p>If a tool solves a real problem — even in play — it belongs here.</p>
+## [ Contact ]
 
-<hr>
-
-<h2>Contact</h2>
-
-<p>
-Open to collaboration, feedback, or ideas:<br>
-<strong>charlesX0101 [at] protonmail [dot] com</strong>
-</p>
-
+Have an idea, tool, or problem worth solving?  
+`charlesX0101 [at] protonmail [dot] me'
