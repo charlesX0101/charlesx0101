@@ -15,6 +15,12 @@ This GitHub is where I keep track of what I build, break, and learn. I create co
 - `SysRecon`  
   Bash-based host scanner for auditing local system configs fast.
 
+- `vpn-connect Public`  
+  Command-line utility to manage .ovpn connections for platforms like HackTheBox and TryHackMe, including IP verification and connection status       checks. 
+
+- `n-wrap Public`  
+  An easy to use Bash wrapper for nmap that helps beginners and IT professionals run essential network scans through a guided CLI menu.
+
 - `Bash Utilities`  
   Small tools for automation, diagnostics, and hands-on CLI work.
 
