@@ -12,18 +12,17 @@ This GitHub is where I keep track of what I build, break, and learn. I create co
 - `Homelab-Build`  
   Docs + design for a secure, enterprise-style segmented network at home.
 
-- `SysRecon`  
-  Bash-based host scanner for auditing local system configs fast.
+- `Ubuntu-Secure-Server-Setup`  
+  Secure Ubuntu Server LTS setup with SSH hardening, UFW firewall, and QEMU-based deployment. 
 
-- `vpn-connect`  
+- `VPN-Connect`  
   Command-line utility to manage .ovpn connections for platforms like HackTheBox and TryHackMe, including IP verification and connection status checks. 
 
-- `n-wrap`  
+- `N-Wrap`  
   An easy to use Bash wrapper for nmap that helps beginners and IT professionals run essential network scans through a guided CLI menu.
 
-- `Bash Utilities`  
-  Small tools for automation, diagnostics, and hands-on CLI work.
-
+- `SysRecon`  
+  Bash-based host scanner for auditing local system configs fast.
 ---
 
 ## [ Skills & Focus ]
