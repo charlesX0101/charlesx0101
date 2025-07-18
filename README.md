@@ -13,7 +13,10 @@ This GitHub is where I keep track of what I build, break, and learn. I create co
   Docs + design for a secure, enterprise-style segmented network at home.
 
 - `Ubuntu-Secure-Server-Setup`  
-  Secure Ubuntu Server LTS setup with SSH hardening, UFW firewall, and QEMU-based deployment. 
+  Secure Ubuntu Server LTS setup with SSH hardening, UFW firewall, and QEMU-based deployment.
+
+- `Windows-Server-AD-Lab`  
+  QEMU-based Windows Server 2022 lab with AD DS, user roles and system hardening via PowerShell. 
 
 - `VPN-Connect`  
   Command-line utility to manage .ovpn connections for platforms like HackTheBox and TryHackMe, including IP verification and connection status checks. 
