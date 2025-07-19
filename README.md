@@ -52,4 +52,4 @@ Outside of work, I enjoy retro gaming, scripting for emulators, and working with
 ## [ Contact ]
 
 Have an idea, tool, or problem worth solving?  
-`charlesX0101 [at] protonmail [dot] me'
+`contact [at] charlesx0101 [dot] com'
