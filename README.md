@@ -1,6 +1,6 @@
 # CharlesX0101
 
-`IT Systems Specialist | Cybersecurity Learner | Linux + Bash Enthusiast`
+`IT Systems Specialist | Cybersecurity Learner | Linux + Bash`
 
 I’m charlesx0101 an experienced IT support professional with over a decade of hands-on work in troubleshooting, system configuration, and technical operations. My background spans Apple hardware, Linux environments, and real-world endpoint management.
 
