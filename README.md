@@ -1,5 +1,4 @@
-[[CharlesX0101]](https://https://charlesx0101.com/) [[About]](https://https://charlesx0101.com/about) [[Labs]](https://https://charlesx0101.com/labs) [[Projects]](https://https://charlesx0101.com/projects) [[Contact]](https://https://charlesx0101.com/contact) 
-
+[[/CharlesX0101]](https://charlesx0101.com/) [[/About]](http://charlesx0101.com/about) [[/Labs]](https://charlesx0101.com/labs) [[/Projects]](https://charlesx0101.com/projects) [[/Contact]](https://charlesx0101.com/contact) 
 # CharlesX0101
 
 `IT Systems Specialist | Cybersecurity Learner | Linux + Bash`
